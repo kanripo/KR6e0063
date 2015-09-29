@@ -1,0 +1,15 @@
+#-*- mode: org; -*-
+#+DATE: 2015-09-28 22:57:28.727514
+#+TITLE: 十地經論義記
+#+PROPERTY: CBETA_ID X45n0753
+#+PROPERTY: ID KR6e0063
+#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 45, No. 753
+#+PROPERTY: VOL 45
+#+PROPERTY: BASEEDITION X
+#+PROPERTY: WITNESS CBETA
+
+<pb:KR6e0063_X_000-0022a>
+[[file:KR6e0063_001.txt::001-0022a1][No.753-A刻十地義記序¶]]
+[[file:KR6e0063_001.txt::001-0022a17][題言六則¶]]
+[[file:KR6e0063_001.txt::0022c2][目次¶]]
+[[file:KR6e0063_001.txt::0023a1][十地義記No.753¶]]
